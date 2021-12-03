@@ -10,9 +10,9 @@
 * [X] Découverte du Markdown : 
   * [ ] Comprendre l'intérêt du Markdown
   * [ ] Découvrir les balises de bases : 
-    * [X] Titres
+    * [ ] Titres
     * [ ] Images
-    * [X] Listes
+    * [ ] Listes
     * [ ] Formatage de texte (italique, souligné, gras)
     * [ ] Code
     * [ ] Citations
@@ -22,8 +22,8 @@
 * [X] Comprendre l'intérêt des raccourcis clavier
 * [X] Découverte des raccourcis clavier de son système (Windows, Linux, Mac) : 
   * [X] Navigateur (fenêtres, onglets, navigation, etc …)
-  * [ ] Terminal (fenêtres, onglets, commandes)
-* [ ] Commencer la rédaction en Markdown de ses cheat sheets dans un repo créé pour l'occasion
+  * [X] Terminal (fenêtres, onglets, commandes)
+* [X] Commencer la rédaction en Markdown de ses cheat sheets dans un repo créé pour l'occasion
 
 
 
