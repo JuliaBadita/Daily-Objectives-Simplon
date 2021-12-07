@@ -13,10 +13,10 @@
   * [X] Comprendre la structure de base HTML et la syntaxe
   * [X] Découvrir les principaux tags HTML et comprendre leur utilité
   * [X] Savoir architecturer une page HTML basique
-  * [ ] Comprendre le fonctionnement des attributs en HTML
-  * [ ] Savoir commenter dans une page HTML
+  * [X] Comprendre le fonctionnement des attributs en HTML
+  * [X] Savoir commenter dans une page HTML
   * [ ] Découvrir le principe de parents/enfants
-  * [ ] Découvrir le HTML5 sémantique
+  * [X] Découvrir le HTML5 sémantique
 * [ ] Comprendre la différence entre les liens relatifs et liens absolus
 * [ ] Créer sa première page HTML (voir brief CV)
 * [ ] Découvrir Emmet (utilité et fonctionnement)
