@@ -8,7 +8,7 @@
 
 * [X] Savoir se documenter (MDN)
 * [X] Découverte de la sainte trinité du web (HTML, CSS et JS)
-  * [ ] Comprendre les différences et rôle de chacun
+  * [X] Comprendre les différences et rôle de chacun
 * [X] Découvrir les bases de HTML :
   * [X] Comprendre la structure de base HTML et la syntaxe
   * [X] Découvrir les principaux tags HTML et comprendre leur utilité
