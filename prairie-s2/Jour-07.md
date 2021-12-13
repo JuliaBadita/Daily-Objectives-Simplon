@@ -19,4 +19,4 @@
   * [X] Découvrir le HTML5 sémantique
 * [ ] Comprendre la différence entre les liens relatifs et liens absolus
 * [X] Créer sa première page HTML (voir brief CV)
-* [ ] Découvrir Emmet (utilité et fonctionnement)
+* [X] Découvrir Emmet (utilité et fonctionnement)
