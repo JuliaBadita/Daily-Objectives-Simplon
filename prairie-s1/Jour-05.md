@@ -23,7 +23,7 @@
 * [X] Découverte des raccourcis clavier de son système (Windows, Linux, Mac) : 
   * [X] Navigateur (fenêtres, onglets, navigation, etc …)
   * [X] Terminal (fenêtres, onglets, commandes)
-* [ ] Commencer la rédaction en Markdown de ses cheat sheets dans un repo créé pour l'occasion
+* [X] Commencer la rédaction en Markdown de ses cheat sheets dans un repo créé pour l'occasion
 
 
 
